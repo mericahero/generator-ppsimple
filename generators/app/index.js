@@ -143,7 +143,7 @@ class PPSimpleGenerator extends Generator {
   }
 
   install() {
-    // this.npmInstall()
+    this.npmInstall()
   }
 }
 
