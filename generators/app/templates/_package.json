@@ -1,7 +1,7 @@
 {
   "name": "<%= appname%>",
   "version": "1.0.0",
-  "description": "hs stock contest views",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,8 +13,6 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "keywords": [
-    "stock",
-    "contest"
   ],
   "author": "meric",
   "license": "ISC",
@@ -75,6 +73,5 @@
     "not ie <= 8"
   ],
   "dependencies": {
-    "emf": "^1.0.28"
   }
 }
