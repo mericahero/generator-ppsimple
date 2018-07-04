@@ -46,7 +46,6 @@
     "opn": "^5.3.0",
     "optimize-css-assets-webpack-plugin": "^4.0.1",
     "ora": "^2.1.0",
-    "pop": "^1.0.8",
     "raw-loader": "^0.5.1",
     "resolve-url-loader": "^2.3.0",
     "rimraf": "^2.6.2",
